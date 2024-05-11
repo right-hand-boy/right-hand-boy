@@ -18,7 +18,6 @@
             <li>Experience with database management systems like MySQL and MongoDB</li>
             <li>Knowledgeable in cloud computing platforms such as Azure</li>
         </ul>
-
         <h1>Passion and Drive</h1>
         <ul>
             <li>Enthusiastic about staying updated with the latest technologies and trends in the field</li>
@@ -26,7 +25,6 @@
             <li>Actively engage in personal projects and continuous learning to enhance skills</li>
             <li>Passionate about solving complex problems and optimizing processes through technology</li>
         </ul>
-
         <h1>Dedication and Commitment</h1>
         <ul>
             <li>Proven track record of meeting deadlines and delivering high-quality work under pressure</li>
@@ -34,7 +32,6 @@
             <li>Strong work ethic and commitment to achieving excellence in every task undertaken</li>
             <li>Consistently seek opportunities for professional growth and development</li>
         </ul>
-
         <h1>Trustworthiness</h1>
         <ul>
             <li>Known for maintaining the highest standards of integrity and ethics in all professional interactions</li>
