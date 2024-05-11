@@ -10,6 +10,7 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **biniyamkefyalew1@gmail.com**
+- 👨‍💻 More About Me
  <h1>Technical Expertise</h1>
         <ul>
             <li>Proficient in various programming languages including Java, JavaScript, and C++</li>
