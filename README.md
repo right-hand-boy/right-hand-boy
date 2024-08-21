@@ -1,44 +1,41 @@
-<h1 align="center">Hi 👋, I'm biniyam kefyalew</h1>
-<h3 align="center">A passionate frontend developer from ethiopia</h3>
 
-- 🌱 I’m currently learning **database mongodb**
+# Biniyam Kefyalew
 
-- 🤝 I’m looking for help with **back-end**
+## Electrical and Computer Engineer  
+### Specializing in Computer Engineering and Web Development
 
-- 👨‍💻 All of my projects are available at [https://right-hand-boy.github.io/Biniyam_Kefyalew_BITSr01/](https://right-hand-boy.github.io/Biniyam_Kefyalew_BITSr01/)
+---
 
-- 💬 Ask me about **react**
+### About Me
 
-- 📫 How to reach me **biniyamkefyalew1@gmail.com**
-- 👨‍💻 More About Me
- <h1>Technical Expertise</h1>
-        <ul>
-            <li>Proficient in various programming languages including Java, JavaScript, and C++</li>
-            <li>Skilled in software development methodologies such as Agile and Scrum</li>
-            <li>Experience with database management systems like MySQL and MongoDB</li>
-            <li>Knowledgeable in cloud computing platforms such as Azure</li>
-        </ul>
-        <h1>Passion and Drive</h1>
-        <ul>
-            <li>Enthusiastic about staying updated with the latest technologies and trends in the field</li>
-            <li>Demonstrated ability to quickly learn and adapt to new technologies and frameworks</li>
-            <li>Actively engage in personal projects and continuous learning to enhance skills</li>
-            <li>Passionate about solving complex problems and optimizing processes through technology</li>
-        </ul>
-        <h1>Dedication and Commitment</h1>
-        <ul>
-            <li>Proven track record of meeting deadlines and delivering high-quality work under pressure</li>
-            <li>Willingness to put in the extra effort to ensure project success and client satisfaction</li>
-            <li>Strong work ethic and commitment to achieving excellence in every task undertaken</li>
-            <li>Consistently seek opportunities for professional growth and development</li>
-        </ul>
-        <h1>Trustworthiness</h1>
-        <ul>
-            <li>Known for maintaining the highest standards of integrity and ethics in all professional interactions</li>
-            <li>Reliable team player who can be counted on to fulfill responsibilities and commitments</li>
-            <li>Respectful and transparent communication style, fostering trust and collaboration within teams</li>
-            <li>Uphold confidentiality and handle sensitive information with discretion and care</li>
-        </ul>
+I am Biniyam Kefyalew, an Electrical and Computer Engineer with a strong focus on Computer Engineering and Web Development. My passion lies in creating efficient, scalable, and user-friendly web applications using the latest technologies. I thrive in environments that challenge my technical skills and allow me to contribute to innovative projects.
+
+### Core Skills
+
+- **Frontend Development**:
+  - **React**: I excel in building dynamic and responsive user interfaces using React, leveraging its component-based architecture to create maintainable and scalable applications.
+  - **Tailwind CSS**: I use Tailwind CSS for styling, allowing me to rapidly develop responsive and modern UI designs with a utility-first approach.
+
+- **Backend Development**:
+  - **Express.js**: I have a deep understanding of Express.js and use it to create robust backend services that power my web applications. I am proficient in designing RESTful APIs and handling server-side logic.
+  - **Node.js**: With Node.js, I develop server-side applications that are efficient and scalable, utilizing asynchronous programming and event-driven architecture.
+
+- **Database Management**:
+  - **MongoDB**: I work extensively with MongoDB, a NoSQL database, to store and manage data for my applications. I am skilled in designing data models, writing queries, and integrating MongoDB with backend services using Mongoose.
+
+### Additional Skills
+
+- **Version Control**: Proficient in using Git and GitHub for version control, collaboration, and project management.
+- **Responsive Design**: Committed to creating web applications that provide a seamless user experience across all devices.
+- **Problem-Solving**: Strong analytical and problem-solving skills, enabling me to tackle complex technical challenges effectively.
+- **Team Collaboration**: Excellent communicator and team player, experienced in working with cross-functional teams to deliver high-quality projects.
+
+Projects & Experience
+EthiopiaE-Shop: Developed an e-commerce platform tailored for the Ethiopian market. The platform was built using React, Tailwind CSS, Express.js, and MongoDB, featuring user authentication, product management, and secure payment processing.
+KMB Online Shop: Created a full-featured online store, offering a seamless shopping experience with a focus on user-friendly design and efficient backend management.
+Worldwide MosobMusicPlayer: Developed a global music player platform that allows users to stream and manage music from a wide variety of genres. The project involved complex data handling and real-time features, utilizing a full-stack approach with React, Express, and MongoDB.
+Atomic Blog: Built a modern, atomic design-inspired blog platform where users can create, share, and comment on blog posts. The project showcases dynamic content rendering and a focus on performance and scalability.
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/right-hand-boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="right-hand-boy" height="30" width="40" /></a>
