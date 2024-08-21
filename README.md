@@ -1,6 +1,3 @@
-Sure! Here’s an updated version of the README-style document that includes the additional projects: **Atomic Blog**, **Worldwide MosobMusicPlayer**, **KMB Online Shop**, and **EthiopiaE-Shop**.
-
----
 
 # Biniyam Kefyalew
 
