@@ -1,14 +1,13 @@
 
 # Biniyam Kefyalew
 
-## Electrical and Computer Engineer  
-### Specializing in Computer Engineering and Web Development
+## Junior Full-Stack Web Developer | React, Node.js,MongoDB, Tailwind CSS
 
 ---
 
 ### About Me
 
-I am Biniyam Kefyalew, an Electrical and Computer Engineer with a strong focus on Computer Engineering and Web Development. My passion lies in creating efficient, scalable, and user-friendly web applications using the latest technologies. I thrive in environments that challenge my technical skills and allow me to contribute to innovative projects.
+I am Biniyam Kefyalew, a 4th-year Computer Engineering student at Bahir Dar University. My passion lies in creating efficient, scalable, and user-friendly web applications using the latest technologies. I thrive in environments that challenge my technical skills and allow me to contribute to innovative projects.
 
 ### Core Skills
 
@@ -32,7 +31,7 @@ I am Biniyam Kefyalew, an Electrical and Computer Engineer with a strong focus o
 
 ### Projects & Experience
 
-- **EthiopiaE-Shop**: Developed an e-commerce platform tailored for the Ethiopian market. The platform was built using React, Tailwind CSS, Express.js, and MongoDB, featuring user authentication, product management, and secure payment processing.
+- **WaliaMart*: Developed an e-commerce platform tailored for the Ethiopian market. The platform was built using React, Tailwind CSS, Express.js, and MongoDB, featuring user authentication, product management, and secure payment processing.
 - **KMB Online Shop**: Created a full-featured online store, offering a seamless shopping experience with a focus on user-friendly design and efficient backend management.
 - **Worldwide MosobMusicPlayer**: Developed a global music player platform that allows users to stream and manage music from a wide variety of genres. The project involved complex data handling and real-time features, utilizing a full-stack approach with React, Express, and MongoDB.
 - **Atomic Blog**: Built a modern, atomic design-inspired blog platform where users can create, share, and comment on blog posts. The project showcases dynamic content rendering and a focus on performance and scalability.
